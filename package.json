@@ -31,7 +31,7 @@
     "graphql-query-complexity": "^0.4.1",
     "ioredis": "^4.16.1",
     "jest": "^25.3.0",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemon": "^2.0.3",
     "pg": "^8.0.0",
